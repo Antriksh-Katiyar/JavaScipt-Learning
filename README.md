@@ -1,2 +1,2 @@
-# JavaScipt-Learning
-Learnign JavaScript
+// JavaScipt-Learning
+alert ("Hello world")
